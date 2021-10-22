@@ -30,7 +30,7 @@ namespace Bhaskara
 
             if(delta < 0)
             {
-                Console.WriteLine($"\nComo delta = {delta}, a equação não possui raízes reais!");
+                Console.WriteLine($"\nComo delta = {delta} é menor que 0, a equação não possui raízes reais!");
                 return;
             }
 
