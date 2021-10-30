@@ -9,7 +9,7 @@ namespace Bhaskara
             double a, b, c;
             double x1, x2, delta;
 
-            Console.WriteLine("Bem vindo ao cálculo de Bharkara.\n");
+            Console.WriteLine("Bem vindo ao cálculo de Bhaskara.\n");
 
             Console.Write("Informe o valor de a: ");
             a = Convert.ToDouble(Console.ReadLine());
